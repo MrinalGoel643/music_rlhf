@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "input_song": "Bohemian Rhapsody by Queen",
+    "rationale_A": "You might like 'Stairway to Heaven' by Led Zeppelin because it similarly blends soft acoustic passages with explosive rock climaxes, creating a journey within a single track.",
+    "rationale_B": "This song has great vibes and energy that you'll love.",
+    "preference": "A"
+  },
+  {
+    "id": 2,
+    "input_song": "Blinding Lights by The Weeknd",
+    "rationale_A": "Try 'Take On Me' by a-ha — both tracks lean into 80s-inflected synth production and soaring falsetto vocals that feel simultaneously nostalgic and euphoric.",
+    "rationale_B": "'Save Your Tears' by The Weeknd is a great song you should listen to next.",
+    "preference": "A"
+  },
+  {
+    "id": 3,
+    "input_song": "Redbone by Childish Gambino",
+    "rationale_A": "This is a cool song and there are many others like it you might enjoy.",
+    "rationale_B": "'Stay With Me' by Sam Smith shares Redbone's slow-burning gospel undertone and emotionally raw vocal delivery — both songs use restraint to build intensity.",
+    "preference": "B"
+  },
+  {
+    "id": 4,
+    "input_song": "Lose Yourself by Eminem",
+    "rationale_A": "'Till I Collapse' by Eminem — same relentless flow and motivational urgency built on a cinematic orchestral loop.",
+    "rationale_B": "'Not Afraid' by Eminem is another Eminem song with similar energy.",
+    "preference": "A"
+  },
+  {
+    "id": 5,
+    "input_song": "Nights by Frank Ocean",
+    "rationale_A": "You'll enjoy this because it has a good beat and Frank Ocean vibes.",
+    "rationale_B": "'Pyramids' by Frank Ocean shares the same mid-track genre pivot — both songs split into two emotional worlds, using that structural surprise as the emotional core.",
+    "preference": "B"
+  },
+  {
+    "id": 6,
+    "input_song": "Mr. Brightside by The Killers",
+    "rationale_A": "'Somebody Told Me' by The Killers has that same urgent, driving verse energy and anthemic chorus built for stadiums.",
+    "rationale_B": "'Reptilia' by The Strokes carries the same post-punk urgency and barely-contained emotional tension — like jealousy turned into a guitar riff.",
+    "preference": "tie"
+  },
+  {
+    "id": 7,
+    "input_song": "God's Plan by Drake",
+    "rationale_A": "'Passionfruit' by Drake — where God's Plan is triumphant and declarative, Passionfruit turns introspective over a dancehall-tinged beat, showing the range of the same emotional register.",
+    "rationale_B": "'Nice For What' by Drake has a similar vibe and production style from the same era.",
+    "preference": "A"
+  },
+  {
+    "id": 8,
+    "input_song": "Comfortably Numb by Pink Floyd",
+    "rationale_A": "'Wish You Were Here' by Pink Floyd is a similar classic rock song.",
+    "rationale_B": "'Fade to Black' by Metallica mirrors Comfortably Numb's structure of a gentle, introspective verse opening into a devastating, cathartic guitar solo — both use dynamics as emotional narrative.",
+    "preference": "B"
+  },
+  {
+    "id": 9,
+    "input_song": "Bad Guy by Billie Eilish",
+    "rationale_A": "'Therefore I Am' by Billie Eilish uses the same sparse, bass-forward minimalism and deadpan confidence — but strips it down even further to pure groove.",
+    "rationale_B": "'Ocean Eyes' by Billie Eilish is another great Billie Eilish song for fans of her music.",
+    "preference": "A"
+  },
+  {
+    "id": 10,
+    "input_song": "Alright by Kendrick Lamar",
+    "rationale_A": "'How Much a Dollar Cost' by Kendrick Lamar is a Kendrick song you would probably enjoy too.",
+    "rationale_B": "'The Story of O.J.' by Jay-Z channels the same socially conscious, jazzy hip-hop palette — using an old-soul instrumental to deliver uncomfortable truths with undeniable groove.",
+    "preference": "B"
+  },
+  {
+    "id": 11,
+    "input_song": "Clair de Lune by Debussy",
+    "rationale_A": "'Gymnopédie No. 1' by Erik Satie shares the same unhurried, melancholic beauty — both pieces use silence and space as compositional elements, letting each note breathe.",
+    "rationale_B": "This classical piece is beautiful and calming. You might enjoy other calm music.",
+    "preference": "A"
+  },
+  {
+    "id": 12,
+    "input_song": "Hotline Bling by Drake",
+    "rationale_A": "'One Dance' by Drake is another popular Drake hit from the same period.",
+    "rationale_B": "'Slow Motion' by Trey Songz taps into the same hypnotic, minimal R&B groove — where the beat's restraint creates more tension than any loud production could.",
+    "preference": "B"
+  },
+  {
+    "id": 13,
+    "input_song": "Shape of You by Ed Sheeran",
+    "rationale_A": "'Can't Stop the Feeling' by Justin Timberlake shares Shape of You's irresistibly catchy tropical pop DNA — both are engineered for pure joyful movement.",
+    "rationale_B": "'Perfect' by Ed Sheeran is a romantic ballad by the same artist.",
+    "preference": "A"
+  },
+  {
+    "id": 14,
+    "input_song": "Smells Like Teen Spirit by Nirvana",
+    "rationale_A": "'Black Hole Sun' by Soundgarden captures the same mid-90s alternative tension — unsettling imagery wrapped in a hook so melodic it feels almost cruel.",
+    "rationale_B": "'Come As You Are' by Nirvana is another Nirvana classic with a similar grunge feel.",
+    "preference": "tie"
+  },
+  {
+    "id": 15,
+    "input_song": "Ultralight Beam by Kanye West",
+    "rationale_A": "'Jesus Walks' by Kanye West also blends gospel and hip-hop.",
+    "rationale_B": "'Glory' by John Legend and Common similarly fuses gospel choir grandeur with deeply personal, socially resonant lyrics — both songs feel like spiritual events dressed as pop music.",
+    "preference": "B"
+  },
+  {
+    "id": 16,
+    "input_song": "Levitating by Dua Lipa",
+    "rationale_A": "'Physical' by Dua Lipa is another disco-pop banger from the same album with similar production.",
+    "rationale_B": "'Good as Hell' by Lizzo carries the same unapologetic, euphoric disco-pop energy — both songs function as self-affirmation anthems wrapped in irresistible grooves.",
+    "preference": "B"
+  },
+  {
+    "id": 17,
+    "input_song": "retrograde by James Blake",
+    "rationale_A": "'Limit to Your Love' by James Blake is another James Blake song featuring his signature falsetto.",
+    "rationale_B": "'Motion Sickness' by Phoebe Bridgers shares Retrograde's quality of emotional devastation delivered at barely above a whisper — both use minimalist production to make vulnerability feel enormous.",
+    "preference": "B"
+  },
+  {
+    "id": 18,
+    "input_song": "Formation by Beyoncé",
+    "rationale_A": "'Flawless' by Beyoncé is a similarly empowering Beyoncé track that fans of Formation will enjoy.",
+    "rationale_B": "'POWER' by Kanye West matches Formation's braggadocious swagger built on a sample-heavy, maximalist beat — both songs turn self-assertion into an aesthetic statement.",
+    "preference": "B"
+  },
+  {
+    "id": 19,
+    "input_song": "One More Time by Daft Punk",
+    "rationale_A": "'Around the World' by Daft Punk is another classic Daft Punk track with a similarly repetitive, hypnotic structure.",
+    "rationale_B": "'Finally' by CeCe Peniston — the house track that Daft Punk was clearly channeling — gives you One More Time's euphoric release but in its purest, un-filtered original form.",
+    "preference": "tie"
+  },
+  {
+    "id": 20,
+    "input_song": "Sicko Mode by Travis Scott",
+    "rationale_A": "'HIGHEST IN THE ROOM' by Travis Scott uses similar Auto-Tune atmospherics and melodic trap production.",
+    "rationale_B": "'R.I.P. SCREW' by Travis Scott is a love letter to the chopped-and-screwed Houston sound that defines Sicko Mode's slippery, warping production — hearing it illuminates exactly what makes that aesthetic work.",
+    "preference": "B"
+  },
+  {
+    "id": 21,
+    "input_song": "Creep by Radiohead",
+    "rationale_A": "'Fake Plastic Trees' by Radiohead captures the same aching self-loathing and outsider despair, but wraps it in even more brittle acoustic vulnerability.",
+    "rationale_B": "'Unwell' by Matchbox Twenty is a good rock song with a similar emotional tone.",
+    "preference": "A"
+  },
+  {
+    "id": 22,
+    "input_song": "DNA by Kendrick Lamar",
+    "rationale_A": "'HUMBLE.' by Kendrick Lamar has the same aggressive, minimalist Mike Will production and confrontational energy.",
+    "rationale_B": "'King's Dead' by Jay Rock ft. Kendrick Lamar delivers the same coiled, explosive energy — both feel like a fighter stepping into the ring.",
+    "preference": "tie"
+  },
+  {
+    "id": 23,
+    "input_song": "Electric Feel by MGMT",
+    "rationale_A": "'Time to Pretend' by MGMT is another psychedelic pop track from the same album.",
+    "rationale_B": "'Do I Wanna Know?' by Arctic Monkeys — both songs use a slow, hypnotic groove as a vessel for something slightly sinister and seductive underneath the surface.",
+    "preference": "B"
+  },
+  {
+    "id": 24,
+    "input_song": "drivers license by Olivia Rodrigo",
+    "rationale_A": "'traitor' by Olivia Rodrigo similarly explores heartbreak and betrayal in her signature confessional style.",
+    "rationale_B": "'White Horse' by Taylor Swift — both are piano-driven heartbreak ballads by young singer-songwriters processing the end of a first love with diary-like emotional precision.",
+    "preference": "B"
+  },
+  {
+    "id": 25,
+    "input_song": "Nuthin' But a G Thang by Dr. Dre",
+    "rationale_A": "'Regulate' by Warren G and Nate Dogg — built on the same G-funk blueprint (LFO synth bass, Parliament samples, laid-back West Coast flow) but adds a cinematic storytelling dimension.",
+    "rationale_B": "'Still D.R.E.' by Dr. Dre and Snoop Dogg is a classic Dr. Dre track with his signature production sound.",
+    "preference": "A"
+  },
+  {
+    "id": 26,
+    "input_song": "Africa by Toto",
+    "rationale_A": "'Eye of the Tiger' by Survivor has a similar anthemic 80s rock feel that fans of Toto appreciate.",
+    "rationale_B": "'Rosanna' by Toto — if Africa's lush, layered production and oddly profound sense of longing resonates, Rosanna is its sophisticated sibling, featuring the famous half-time shuffle that defines studio perfection.",
+    "preference": "B"
+  },
+  {
+    "id": 27,
+    "input_song": "Issues by Julia Michaels",
+    "rationale_A": "'Ours' by Taylor Swift is a sweet acoustic love song with a similar intimate feel.",
+    "rationale_B": "'Too Good at Goodbyes' by Sam Smith shares Issues' quality of radical emotional honesty — both songs turn personal flaws into the most endearing thing about the narrator.",
+    "preference": "B"
+  },
+  {
+    "id": 28,
+    "input_song": "Swimming Pools by Kendrick Lamar",
+    "rationale_A": "'Otis' by Jay-Z and Kanye West has a similar hip-hop energy and is from the same era.",
+    "rationale_B": "'Sing About Me, I'm Dying of Thirst' by Kendrick Lamar extends Swimming Pools' exploration of self-destruction and mortality into a sprawling, devastating suite — if one song cracked the door open, this one tears it off the hinges.",
+    "preference": "B"
+  },
+  {
+    "id": 29,
+    "input_song": "Vienna by Billy Joel",
+    "rationale_A": "'Piano Man' by Billy Joel is another Billy Joel classic piano ballad.",
+    "rationale_B": "'Fast Car' by Tracy Chapman shares Vienna's gentle urgency — both songs are conversations with someone rushing too fast through life, told over acoustic arrangements that feel like a hand on your shoulder.",
+    "preference": "B"
+  },
+  {
+    "id": 30,
+    "input_song": "Rockstar by Post Malone",
+    "rationale_A": "'Sunflower' by Post Malone and Swae Lee is a mellower, more melodic Post Malone track.",
+    "rationale_B": "'XO Tour Llif3' by Lil Uzi Vert — both songs pioneered the emo-trap fusion, using minor-key melancholy and melodic mumble-singing to process emotional pain through a party-music lens.",
+    "preference": "B"
+  },
+  {
+    "id": 31,
+    "input_song": "Jolene by Dolly Parton",
+    "rationale_A": "'I Will Always Love You' by Dolly Parton — written by the same artist, this shows the other side of the same emotional coin: where Jolene pleads, this song releases, both with devastating grace.",
+    "rationale_B": "'Stand By Your Man' by Tammy Wynette is a classic country song about relationships from the same era.",
+    "preference": "A"
+  },
+  {
+    "id": 32,
+    "input_song": "Ribs by Lorde",
+    "rationale_A": "'Buzzcut Season' by Lorde from the same album shares the same hypnotic electronic production and anxiety-laced lyricism.",
+    "rationale_B": "'1950' by King Princess — both songs capture the specific terror and euphoria of adolescence with eerily mature self-awareness, using production that feels both intimate and cinematic.",
+    "preference": "tie"
+  },
+  {
+    "id": 33,
+    "input_song": "Superstition by Stevie Wonder",
+    "rationale_A": "'Isn't She Lovely' by Stevie Wonder is another Stevie Wonder classic.",
+    "rationale_B": "'Play That Funky Music' by Wild Cherry — the clavinet riff in Superstition launched a thousand funk records, and this one distills that exact kinetic, clavinet-driven groove into pure radio dynamite.",
+    "preference": "B"
+  },
+  {
+    "id": 34,
+    "input_song": "Runaway by Kanye West",
+    "rationale_A": "'Lost in the World' by Kanye West — on the same album, this track transforms Runaway's solitude into something communal, completing the emotional arc Runaway begins.",
+    "rationale_B": "'Gold Digger' by Kanye West is a popular Kanye track with a great sample.",
+    "preference": "A"
+  },
+  {
+    "id": 35,
+    "input_song": "Waterloo Sunset by The Kinks",
+    "rationale_A": "'Sunny Afternoon' by The Kinks is another classic Kinks song from Ray Davies.",
+    "rationale_B": "'The Masterplan' by Oasis — both songs share a quality of world-weary tenderness, of watching life pass with a mix of longing and acceptance that no production trick can manufacture.",
+    "preference": "tie"
+  },
+  {
+    "id": 36,
+    "input_song": "Bury a Friend by Billie Eilish",
+    "rationale_A": "'you should see me in a crown' by Billie Eilish has a similar dark, bass-heavy production style.",
+    "rationale_B": "'Numb' by Linkin Park — both songs externalize psychological dread through distorted, visceral production; Bury a Friend just does it with bass drops instead of guitars.",
+    "preference": "B"
+  },
+  {
+    "id": 37,
+    "input_song": "Dreams by Fleetwood Mac",
+    "rationale_A": "'The Chain' by Fleetwood Mac — the tension between the song's silky production and its raw emotional subject matter is identical in both tracks, but The Chain reveals the band's internal war even more explicitly.",
+    "rationale_B": "'Go Your Own Way' by Fleetwood Mac is another classic Fleetwood Mac breakup song.",
+    "preference": "A"
+  },
+  {
+    "id": 38,
+    "input_song": "Golden Hour by JVKE",
+    "rationale_A": "'Lover' by Taylor Swift — both songs treat romantic love as something luminous and almost overwhelming, using delicate production that feels like it could shatter under the weight of the emotion.",
+    "rationale_B": "'Butterflies' by Kacey Musgraves is a similar romantic pop song with soft production.",
+    "preference": "A"
+  },
+  {
+    "id": 39,
+    "input_song": "Sandstorm by Darude",
+    "rationale_A": "'Kernkraft 400' by Zombie Nation hits the same pressure point — a single melodic synth hook deployed at peak rave energy, designed to make thousands of people lose their minds simultaneously.",
+    "rationale_B": "'Blue (Da Ba Dee)' by Eiffel 65 is another memorable late 90s electronic song.",
+    "preference": "A"
+  },
+  {
+    "id": 40,
+    "input_song": "Love Story by Taylor Swift",
+    "rationale_A": "'You Belong With Me' by Taylor Swift is another Taylor Swift country-pop classic from the same era.",
+    "rationale_B": "'Fearless' by Taylor Swift — from the same album, this title track shares Love Story's galloping production and that specific feeling of falling in love so hard the world blurs at the edges.",
+    "preference": "tie"
+  },
+  {
+    "id": 41,
+    "input_song": "Thinking Out Loud by Ed Sheeran",
+    "rationale_A": "'All of Me' by John Legend — both are romantic piano ballads released around the same time, but Legend's production adds orchestral sweep to Sheeran's acoustic intimacy.",
+    "rationale_B": "'Photograph' by Ed Sheeran is another popular romantic Ed Sheeran song.",
+    "preference": "A"
+  },
+  {
+    "id": 42,
+    "input_song": "Peaches by Justin Bieber",
+    "rationale_A": "'Intentions' by Justin Bieber has a similar feel-good, R&B-influenced pop sound.",
+    "rationale_B": "'Essence' by Wizkid ft. Tems — Peaches borrows heavily from Afrobeats cadence, and Essence is the purest expression of that groove; hearing the original context makes Peaches make more sense.",
+    "preference": "B"
+  },
+  {
+    "id": 43,
+    "input_song": "Clocks by Coldplay",
+    "rationale_A": "'The Scientist' by Coldplay is another Coldplay piano-driven track with an emotional, introspective quality.",
+    "rationale_B": "'How to Disappear Completely' by Radiohead — both songs achieve the same sense of dissociation and desperate searching through arpeggiated piano figures and slowly building orchestration.",
+    "preference": "B"
+  },
+  {
+    "id": 44,
+    "input_song": "PRIDE. by Kendrick Lamar",
+    "rationale_A": "'LOVE.' by Kendrick Lamar has a similar mellow, introspective feel from the same album.",
+    "rationale_B": "'Be Careful' by Cardi B — produced by the same Sounwave, both songs use the same dusty, soulful beat-making to strip away ego and ask hard questions about who you really are in love.",
+    "preference": "B"
+  },
+  {
+    "id": 45,
+    "input_song": "Somebody That I Used to Know by Gotye",
+    "rationale_A": "'Hearts a Mess' by Gotye is another Gotye song with a similar style.",
+    "rationale_B": "'We Are Never Ever Getting Back Together' by Taylor Swift — both songs are post-breakup declarations told from opposing perspectives, but where Taylor's is triumphant, Gotye's is still bleeding.",
+    "preference": "B"
+  },
+  {
+    "id": 46,
+    "input_song": "New Soul by Yael Naim",
+    "rationale_A": "'1234' by Feist shares the same whimsical, acoustic-driven charm and the feeling of discovering joy in simple things.",
+    "rationale_B": "'Happy' by Pharrell Williams is an upbeat, feel-good song similar in mood.",
+    "preference": "A"
+  },
+  {
+    "id": 47,
+    "input_song": "Pursuit of Happiness by Kid Cudi",
+    "rationale_A": "'Marijuana' by Kid Cudi is another Kid Cudi track with a similar hazy, introspective mood.",
+    "rationale_B": "'Heartless' by Kanye West — produced by 808s-era Kanye, both songs use Auto-Tune as emotional armor; the loneliness underneath sounds identical even if the surfaces differ.",
+    "preference": "B"
+  },
+  {
+    "id": 48,
+    "input_song": "Royals by Lorde",
+    "rationale_A": "'Team' by Lorde from the same album continues the same stripped-back aesthetic and anti-excess worldview.",
+    "rationale_B": "'Ribs' by Lorde — where Royals is cool and declarative, Ribs is its terrified underside: same teenager, same minimalist production, completely different emotional register.",
+    "preference": "tie"
+  },
+  {
+    "id": 49,
+    "input_song": "No Role Modelz by J. Cole",
+    "rationale_A": "'Love Yourz' by J. Cole has a similar introspective, stripped-back production style.",
+    "rationale_B": "'Middle Child' by J. Cole — both songs position Cole as the voice of reason in a rap landscape he finds increasingly absurd, but Middle Child turns that frustration into something almost cinematic.",
+    "preference": "B"
+  },
+  {
+    "id": 50,
+    "input_song": "Take Five by Dave Brubeck",
+    "rationale_A": "'So What' by Miles Davis — Take Five and So What both define the cool jazz movement's approach of building maximum expression from minimum notes, just in 5/4 and modal frameworks respectively.",
+    "rationale_B": "'Blue in Green' by Miles Davis is a relaxing jazz piece that fans of Dave Brubeck would enjoy.",
+    "preference": "A"
+  },
+  {
+    "id": 51,
+    "input_song": "Midnight Rain by Taylor Swift",
+    "rationale_A": "'exile' by Taylor Swift and Bon Iver — both use vocal layering and a contrast between two perspectives to create emotional stereo, making heartbreak feel three-dimensional.",
+    "rationale_B": "'Champagne Problems' by Taylor Swift is another melancholy Taylor Swift track from the same era.",
+    "preference": "A"
+  },
+  {
+    "id": 52,
+    "input_song": "Watermelon Sugar by Harry Styles",
+    "rationale_A": "'Adore You' by Harry Styles is another upbeat Harry Styles track from the same album.",
+    "rationale_B": "'Raspberry Beret' by Prince — Watermelon Sugar is essentially a love letter to Prince's playful, euphemistic sensualism; the comparison reveals exactly what Harry Styles was reaching for.",
+    "preference": "B"
+  },
+  {
+    "id": 53,
+    "input_song": "Hotline Bling by Drake",
+    "rationale_A": "'Controlla' by Drake uses a similar dancehall-influenced minimalist production and lovelorn subject matter.",
+    "rationale_B": "'Wicked Games' by The Weeknd — both were defining tracks of the PBR&B moment, using sparse, unconventional beats to explore romantic obsession with eerie calm.",
+    "preference": "tie"
+  },
+  {
+    "id": 54,
+    "input_song": "Surfin' USA by The Beach Boys",
+    "rationale_A": "'Fun, Fun, Fun' by The Beach Boys has a similar carefree California rock spirit.",
+    "rationale_B": "'Johnny B. Goode' by Chuck Berry — Surfin' USA is essentially this song with different lyrics; knowing the source reveals how The Beach Boys transformed 50s rock and roll into California mythology.",
+    "preference": "B"
+  },
+  {
+    "id": 55,
+    "input_song": "Creepin' by Metro Boomin",
+    "rationale_A": "'Superhero' by Metro Boomin has a similar dark, cinematic Metro Boomin production style.",
+    "rationale_B": "'Earned It' by The Weeknd — Metro Boomin's orchestral R&B production here finds its spiritual predecessor in Earned It, which pioneered this exact brooding romanticism.",
+    "preference": "B"
+  },
+  {
+    "id": 56,
+    "input_song": "Circles by Post Malone",
+    "rationale_A": "'Falling' by Harry Styles — both songs use melancholy acoustic-pop production to sit inside heartbreak rather than escape it, with a quality of resigned acceptance.",
+    "rationale_B": "'Stay' by Post Malone is another emotional Post Malone track about a relationship.",
+    "preference": "A"
+  },
+  {
+    "id": 57,
+    "input_song": "Redlight by Tiësto",
+    "rationale_A": "'Beautiful Life' by Fisher — both peak-time techno/big room tracks engineer the same pressure-release cycle, but Fisher's underground sensibility makes the payoff feel earned rather than mechanical.",
+    "rationale_B": "'Ten Feet Tall' by Afrojack is a similar big-room EDM track with a powerful drop.",
+    "preference": "A"
+  },
+  {
+    "id": 58,
+    "input_song": "Fast Car by Tracy Chapman",
+    "rationale_A": "'The House That Built Me' by Miranda Lambert — both songs use a car or place as a vessel for class consciousness and the weight of origins, with production that gets out of the way of the story.",
+    "rationale_B": "'Baby Can I Hold You' by Tracy Chapman is another Tracy Chapman song with a similar gentle acoustic style.",
+    "preference": "A"
+  },
+  {
+    "id": 59,
+    "input_song": "Borderline by Tame Impala",
+    "rationale_A": "'Patience' by Tame Impala is another dreamy, psychedelic pop track from the same period.",
+    "rationale_B": "'It's Only Life' by The Shins — both songs dress existential uncertainty in the most infectiously optimistic production possible, making the melancholy feel almost like relief.",
+    "preference": "B"
+  },
+  {
+    "id": 60,
+    "input_song": "cardigan by Taylor Swift",
+    "rationale_A": "'august' by Taylor Swift — on the same album, this song tells the same story from a different perspective, and hearing both creates a stereo image of heartbreak that neither song achieves alone.",
+    "rationale_B": "'seven' by Taylor Swift is another folksy, nostalgic Taylor Swift track from folklore.",
+    "preference": "A"
+  },
+  {
+    "id": 61,
+    "input_song": "Smells Like Teen Spirit by Nirvana",
+    "rationale_A": "'Territorial Pissings' by Nirvana is a faster, more aggressive Nirvana track.",
+    "rationale_B": "'Even Flow' by Pearl Jam — recorded at the same Seattle moment, both songs ride the same tension between melodic restraint in the verse and cathartic release in the chorus, just with different emotional temperatures.",
+    "preference": "B"
+  },
+  {
+    "id": 62,
+    "input_song": "Savage by Megan Thee Stallion",
+    "rationale_A": "'WAP' by Cardi B and Megan Thee Stallion is another unapologetically confident female rap anthem.",
+    "rationale_B": "'Bodak Yellow' by Cardi B — both were watershed moments for uncompromising female rap dominance, using minimalist production to let the flows speak entirely for themselves.",
+    "preference": "tie"
+  },
+  {
+    "id": 63,
+    "input_song": "Sunday Bloody Sunday by U2",
+    "rationale_A": "'Where the Streets Have No Name' by U2 is another U2 anthem with anthemic guitar work.",
+    "rationale_B": "'Lives in the Balance' by Jackson Browne — both songs turn political anguish into melodic rock with a moral urgency that refuses to let the listener stay comfortable.",
+    "preference": "B"
+  },
+  {
+    "id": 64,
+    "input_song": "The Less I Know the Better by Tame Impala",
+    "rationale_A": "'New Person, Same Old Mistakes' by Tame Impala has a similarly seductive, funky psychedelic pop feel.",
+    "rationale_B": "'Do I Wanna Know?' by Arctic Monkeys — both use a coiled, funky groove as the vehicle for sexual jealousy, and both let the bass do the emotional heavy lifting.",
+    "preference": "tie"
+  },
+  {
+    "id": 65,
+    "input_song": "Murder on the Dancefloor by Sophie Ellis-Bextor",
+    "rationale_A": "'Toxic' by Britney Spears — both are early 2000s dance-pop tracks engineered from start to finish as perfect sonic weapons: relentless hooks, just enough darkness underneath the gloss.",
+    "rationale_B": "'Can't Get You Out of My Head' by Kylie Minogue is another iconic dance-pop track from the same era.",
+    "preference": "A"
+  },
+  {
+    "id": 66,
+    "input_song": "Location by Khalid",
+    "rationale_A": "'Talk' by Khalid has a similar dreamy, understated R&B production style.",
+    "rationale_B": "'Come Through' by H.E.R. — both songs exist in the same emotionally tentative space, where attraction is real but vulnerability is terrifying, told through hazy R&B production that mirrors the uncertainty.",
+    "preference": "B"
+  },
+  {
+    "id": 67,
+    "input_song": "Glycerine by Bush",
+    "rationale_A": "'More Than Words' by Extreme — both are stripped-back acoustic declarations from heavy rock bands that strip away all the noise to reveal something genuinely tender.",
+    "rationale_B": "'Everything Zen' by Bush is another Bush song with a similar post-grunge style.",
+    "preference": "A"
+  },
+  {
+    "id": 68,
+    "input_song": "Mirrors by Justin Timberlake",
+    "rationale_A": "'FutureSex/LoveSounds' by Justin Timberlake is a classic JT track showing his range.",
+    "rationale_B": "'Human Nature' by Michael Jackson — Mirrors is JT's love letter to MJ's ballad mastery; knowing the source reveals both the homage and how effectively it was updated for a new generation.",
+    "preference": "B"
+  },
+  {
+    "id": 69,
+    "input_song": "Heartless by Kanye West",
+    "rationale_A": "'Love Lockdown' by Kanye West from the same album uses 808 drums and auto-tune in an even more stripped-back, devastating way.",
+    "rationale_B": "'RoboCop' by Kanye West is another 808s & Heartbreak track with an interesting production choice.",
+    "preference": "A"
+  },
+  {
+    "id": 70,
+    "input_song": "Everybody Wants to Rule the World by Tears for Fears",
+    "rationale_A": "'Mad World' by Tears for Fears — where Everybody Wants the Rule the World is expansive and cinematic, Mad World collapses into itself; together they define 80s alternative pop's emotional range.",
+    "rationale_B": "'Shout' by Tears for Fears is another classic Tears for Fears song from the same era.",
+    "preference": "A"
+  },
+  {
+    "id": 71,
+    "input_song": "Blue (Da Ba Dee) by Eiffel 65",
+    "rationale_A": "'Freed from Desire' by Gala — both were defining Eurodance hits engineered for the same euphoric, repetition-driven energy, but Freed From Desire adds a gospel undertow that makes the transcendence feel earned.",
+    "rationale_B": "'Barbie Girl' by Aqua is another fun, campy 90s European pop hit.",
+    "preference": "A"
+  },
+  {
+    "id": 72,
+    "input_song": "SOS by Rihanna",
+    "rationale_A": "'Umbrella' by Rihanna is another iconic Rihanna hit from roughly the same era.",
+    "rationale_B": "'Tainted Love' by Soft Cell — SOS is built on this sample; hearing the source reveals how completely Rihanna transformed a cold, post-punk artifact into pure pop kinetics.",
+    "preference": "B"
+  },
+  {
+    "id": 73,
+    "input_song": "What's Going On by Marvin Gaye",
+    "rationale_A": "'Inner City Blues' by Marvin Gaye — from the same album, this track takes What's Going On's political concern and lets it curdle into something angrier, completing the album's emotional arc.",
+    "rationale_B": "'Mercy Mercy Me' by Marvin Gaye is another track from the same classic album.",
+    "preference": "A"
+  },
+  {
+    "id": 74,
+    "input_song": "Flashing Lights by Kanye West",
+    "rationale_A": "'Champion' by Kanye West has a similarly triumphant, sample-based Kanye production.",
+    "rationale_B": "'We Major' by Kanye West — both songs treat grandiosity as a spiritual state, using orchestral samples to turn ambition into something almost religious.",
+    "preference": "B"
+  },
+  {
+    "id": 75,
+    "input_song": "Yellow by Coldplay",
+    "rationale_A": "'Fix You' by Coldplay is another beloved Coldplay emotional ballad.",
+    "rationale_B": "'Champagne Supernova' by Oasis — both are about devotion expressed through cosmic imagery, both let a single guitar figure carry more emotional weight than an orchestra could.",
+    "preference": "B"
+  },
+  {
+    "id": 76,
+    "input_song": "Goosebumps by Travis Scott",
+    "rationale_A": "'Antidote' by Travis Scott has a similar atmospheric, Auto-Tune heavy trap production.",
+    "rationale_B": "'Mask Off' by Future — both songs use a single looping melodic figure to create a hypnotic, slightly threatening atmosphere; Future's flute loop and Travis's distorted hook are two expressions of the same idea.",
+    "preference": "B"
+  },
+  {
+    "id": 77,
+    "input_song": "Hotel California by The Eagles",
+    "rationale_A": "'Life in the Fast Lane' by The Eagles has a similarly dark, rock guitar-driven narrative from the same album.",
+    "rationale_B": "'Desperado' by The Eagles — where Hotel California is a labyrinthine trap, Desperado is its emotional inverse: a plea to stop running, delivered with pure acoustic vulnerability.",
+    "preference": "tie"
+  },
+  {
+    "id": 78,
+    "input_song": "Cherry Wine by Hozier",
+    "rationale_A": "'Work Song' by Hozier has a similar blues-influenced folk style and Hozier's distinctive voice.",
+    "rationale_B": "'Liability' by Lorde — both songs turn the experience of being 'too much' in love into something achingly beautiful, with minimal production that makes the vulnerability impossible to deflect.",
+    "preference": "B"
+  },
+  {
+    "id": 79,
+    "input_song": "Passionfruit by Drake",
+    "rationale_A": "'Controlla' by Drake has a similar dancehall-influenced, romantic production style.",
+    "rationale_B": "'Loaded' by Kaytranada ft. Syd — Passionfruit was heavily influenced by Kaytranada's approach; this track is the purest expression of that warm, bass-heavy electronic R&B sound.",
+    "preference": "B"
+  },
+  {
+    "id": 80,
+    "input_song": "Thunderstruck by AC/DC",
+    "rationale_A": "'Highway to Hell' by AC/DC is another AC/DC classic rock anthem.",
+    "rationale_B": "'Enter Sandman' by Metallica — both songs use a single iconic riff as a complete argument; no melody, no elaboration needed — just the riff, the drums, and total commitment.",
+    "preference": "tie"
+  },
+  {
+    "id": 81,
+    "input_song": "Weird Fishes by Radiohead",
+    "rationale_A": "'All I Need' by Radiohead from the same album shares the same ominous, hypnotic quality.",
+    "rationale_B": "'Ocean' by Frank Ocean — both songs use water as a psychological space, and both let the production slowly overwhelm the listener the way the ocean overwhelms the narrator.",
+    "preference": "B"
+  },
+  {
+    "id": 82,
+    "input_song": "About a Girl by Nirvana",
+    "rationale_A": "'Polly' by Nirvana is another quieter, more melodic Nirvana track.",
+    "rationale_B": "'I'm Not Okay (I Promise)' by My Chemical Romance — both are the melodic, vulnerable underbelly of bands whose identity is otherwise built on noise and aggression.",
+    "preference": "B"
+  },
+  {
+    "id": 83,
+    "input_song": "Despacito by Luis Fonsi",
+    "rationale_A": "'Felices los 4' by Maluma has a similar reggaeton beat and Latin pop appeal.",
+    "rationale_B": "'Lean On' by Major Lazer — both became global crossover phenomena by grafting regional music's rhythms onto internationally legible pop structures; the mechanics of the crossover are identical.",
+    "preference": "B"
+  },
+  {
+    "id": 84,
+    "input_song": "Chandelier by Sia",
+    "rationale_A": "'Elastic Heart' by Sia has a similar powerful vocal performance and emotional intensity.",
+    "rationale_B": "'Praying' by Kesha — both songs weaponize vocal performance to transform personal trauma into something transcendent; the voice becomes the instrument of survival.",
+    "preference": "tie"
+  },
+  {
+    "id": 85,
+    "input_song": "Free Fallin' by Tom Petty",
+    "rationale_A": "'I Won't Back Down' by Tom Petty has a similar straightforward rock feel and Tom Petty's distinctive voice.",
+    "rationale_B": "'Southern Cross' by Crosby, Stills & Nash — both songs use simple chord progressions and plainspoken imagery to achieve a sense of open sky and emotional freedom that complex arrangements couldn't replicate.",
+    "preference": "B"
+  },
+  {
+    "id": 86,
+    "input_song": "Neon by John Mayer",
+    "rationale_A": "'Your Body Is a Wonderland' by John Mayer is another John Mayer song showcasing his guitar work.",
+    "rationale_B": "'Continuum' by John Mayer — Neon is a party trick; Continuum is what it unlocks. If Neon's virtuosity excites you, Continuum shows where that technique goes when John Mayer stops showing off and starts feeling.",
+    "preference": "B"
+  },
+  {
+    "id": 87,
+    "input_song": "Rolling in the Deep by Adele",
+    "rationale_A": "'Someone Like You' by Adele is another iconic Adele breakup song from the same album.",
+    "rationale_B": "'Irreplaceable' by Beyoncé — both songs weaponize female self-possession after betrayal; where Adele scorches the earth emotionally, Beyoncé calmly packs his bags. Two different temperatures of the same fire.",
+    "preference": "tie"
+  },
+  {
+    "id": 88,
+    "input_song": "A$AP Forever by A$AP Rocky",
+    "rationale_A": "'LSD' by A$AP Rocky has a similar hazy, psychedelic feel with interesting production.",
+    "rationale_B": "'Skyfall' by A$AP Mob ft. Lil B — both treat production as an impressionist canvas, using lo-fi, woozy beats to turn rap braggadocio into something almost painterly.",
+    "preference": "B"
+  },
+  {
+    "id": 89,
+    "input_song": "Lovely Day by Bill Withers",
+    "rationale_A": "'Just the Two of Us' by Grover Washington Jr. and Bill Withers shares that same warm, optimistic soul production.",
+    "rationale_B": "'Ain't No Sunshine' by Bill Withers — hearing the two together reveals the full range: Lovely Day is what love arriving feels like; Ain't No Sunshine is what love leaving sounds like.",
+    "preference": "tie"
+  },
+  {
+    "id": 90,
+    "input_song": "Flowers by Miley Cyrus",
+    "rationale_A": "'Wrecking Ball' by Miley Cyrus is another emotionally powerful Miley Cyrus track about a difficult relationship.",
+    "rationale_B": "'Survivor' by Destiny's Child — both songs turn the act of choosing yourself after a toxic relationship into a full-body pop anthem; the genre and era differ but the emotional architecture is identical.",
+    "preference": "B"
+  },
+  {
+    "id": 91,
+    "input_song": "Paranoid Android by Radiohead",
+    "rationale_A": "'Lucky' by Radiohead is another OK Computer track with a sweeping, cinematic quality.",
+    "rationale_B": "'A Day in the Life' by The Beatles — both songs pioneered the multi-movement suite structure in rock, using jarring genre transitions to mirror the fractured feeling of modern consciousness.",
+    "preference": "B"
+  },
+  {
+    "id": 92,
+    "input_song": "Sweater Weather by The Neighbourhood",
+    "rationale_A": "'Afraid' by The Neighbourhood has a similar moody, dark indie pop sound.",
+    "rationale_B": "'Somebody Else' by The 1975 — both songs use indie-pop minimalism to capture the specific cold of loving someone who doesn't want you back in the way you need.",
+    "preference": "B"
+  },
+  {
+    "id": 93,
+    "input_song": "Killing Me Softly by Fugees",
+    "rationale_A": "'Ready or Not' by Fugees is another classic Fugees track with great production.",
+    "rationale_B": "'Ex-Factor' by Lauryn Hill — Lauryn Hill's solo work directly extended what the Fugees built, and Ex-Factor is where she takes Killing Me Softly's emotional vulnerability and makes it entirely her own.",
+    "preference": "B"
+  },
+  {
+    "id": 94,
+    "input_song": "Starboy by The Weeknd",
+    "rationale_A": "'I Feel It Coming' by The Weeknd has a similar Daft Punk collaboration feel and smooth production.",
+    "rationale_B": "'Digital Love' by Daft Punk — Starboy is a love letter to this track's chromium-plated romanticism; hearing the source reveals how completely The Weeknd metabolized Daft Punk's aesthetic DNA.",
+    "preference": "tie"
+  },
+  {
+    "id": 95,
+    "input_song": "Yesterday by The Beatles",
+    "rationale_A": "'Blackbird' by The Beatles — both are solo acoustic Beatles pieces, but where Yesterday mourns a lost relationship, Blackbird uses the same format to speak to something larger and more political.",
+    "rationale_B": "'Let It Be' by The Beatles is another classic, emotionally resonant Beatles ballad.",
+    "preference": "A"
+  },
+  {
+    "id": 96,
+    "input_song": "Symphony No. 9 by Beethoven",
+    "rationale_A": "'Also Sprach Zarathustra' by Richard Strauss — both works use a massive orchestral and choral buildup to make the arrival of a theme feel like a civilizational event.",
+    "rationale_B": "'The Four Seasons' by Vivaldi is another famous classical piece that fans of Beethoven enjoy.",
+    "preference": "A"
+  },
+  {
+    "id": 97,
+    "input_song": "No Scrubs by TLC",
+    "rationale_A": "'Unpretty' by TLC is another TLC classic with a similar message of self-worth.",
+    "rationale_B": "'Independent Women' by Destiny's Child — both songs are pop-cultural manifestos about female self-sufficiency delivered with production that sounds as confident as the message.",
+    "preference": "B"
+  },
+  {
+    "id": 98,
+    "input_song": "Midnight City by M83",
+    "rationale_A": "'Oblivion' by M83 has a similar sweeping, nostalgic synth-pop sound.",
+    "rationale_B": "'Take My Breath Away' by Berlin — Midnight City is essentially this song run through a neon-lit dream-state; hearing the original reveals that M83 didn't invent cinematic synth-pop, they just compressed its entire history into a saxophone break.",
+    "preference": "B"
+  },
+  {
+    "id": 99,
+    "input_song": "Bejeweled by Taylor Swift",
+    "rationale_A": "'Anti-Hero' by Taylor Swift is another self-aware Taylor Swift pop track from the same album.",
+    "rationale_B": "'7 Rings' by Ariana Grande — both songs use maximalist self-confidence and consumerist imagery as emotional armor, turning materialism into a coping mechanism with a wink.",
+    "preference": "B"
+  },
+  {
+    "id": 100,
+    "input_song": "Hallelujah by Jeff Buckley",
+    "rationale_A": "'Lover, You Should've Come Over' by Jeff Buckley — hearing this alongside Hallelujah shows the full scope of Buckley's voice: where Hallelujah transcends, Lover stays human, and both are devastating.",
+    "rationale_B": "'Mad World' by Gary Jules — both are spare, devastatingly quiet covers that transformed already sad songs into something almost unbearably intimate.",
+    "preference": "tie"
+  }
+]
