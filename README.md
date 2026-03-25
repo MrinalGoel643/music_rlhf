@@ -17,18 +17,6 @@ The overoptimization behavior is the analytical centerpiece — by training a sm
 
 ---
 
-## Project Files
-
-| File | Description |
-|---|---|
-| `music_rlhf.ipynb` | Full pipeline notebook — runs end to end |
-| `music_rlhf_preferences.json` | 100 human preference pairs with ties |
-| `music-rlhf-ui.zip` | Vercel-deployable React frontend for preference collection |
-| `music_rlhf_presentation.pptx` | 11-slide presentation deck |
-| `music_rlhf_summary.md` | Shareable project summary for teammates |
-
----
-
 ## Pipeline
 
 ```
